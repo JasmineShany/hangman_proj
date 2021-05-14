@@ -37,5 +37,5 @@ print(keyboard_shortcuts.items())
 print(keyboard_shortcuts)
 print(keyboard_shortcuts [1,2])
 
-
+#TODO: finish the tasks in this chapter
 
